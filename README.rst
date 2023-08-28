@@ -1,4 +1,4 @@
-ahocode
+ahocode-test
 ==================
 This repo is a pure python implementation for `pyahocorasick <https://github.com/WojciechMula/pyahocorasick>`_, inspired by `abusix/ahocorapy <https://github.com/abusix/ahocorapy>`_.
 
@@ -12,7 +12,7 @@ Requirements
 
 .. code-block:: bash
 
-    pip install ahocode
+    pip install ahocode-test
 
 Documentation
 ---------------------------
